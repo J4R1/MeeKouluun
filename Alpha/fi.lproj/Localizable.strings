@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+  Alpha
+
+  Created by iosdev on 07/12/2019.
+  Copyright © 2019 Jari Pietikäinen. All rights reserved.
+*/
+
+//ViewController
+"language_header_text" = "Suomi";
+"language_instruction_text" = "Valitse kieli:";
+"continue_text" = "Jatka ilman sisäänkirjautumista";
+"signed_in" = "Jatka";
+"google_text" = "Kirjaudu sisään Googlella";
+"facebook_text" = "Kirjaudu sisään Facebookilla";
+
+//BasicQuestions1
+"next_text" = "Seuraava";
+"age_question" = "Kuinka vanha olet?";
+
+//BasicQuestions2
+"next_map_text" = "Seuraava";
+"postal_code_description" = "Syötä postinumero:";
+
+//BasicQuestions3
+"elementary" = "Peruskoulu";
+"trade_school" = "Ammattikoulu";
+"high_school" = "Lukio";
+"college" = "Ammattikorkeakoulu";
+"university" = "Yliopisto";
+"education_label" = "Mikä on aikaisempi koulutustasosi?";
+"education_continue_button" = "Jatka";
+
+
+
+//ExplanationScreen
+"start_questions_text" = "Vastaa vielä nopeaan kyselyymme löytääksesi sinulle sopivimman opiskelupaikan!";
+"instruction_text" = "Voit liikkua kysymysten välillä pyyhkäisemällä näyttöä oikealle tai vasemalle.";
+"start_questions_button" = "Aloitetaan!";
+
+//CollectionViewController
+"go_to_results" = "Tuloksiin";
+
+//ToResultViewController
+"result_explanation_text" = "Onneksi Olkoon! \nVastasit kaikkiin kysymyksiin.\n\nJatka tuloksiin alhaalta.";
+"to_results_next" = "Tuloksiin";
+"calculating_results" = "Lasketaan Tuloksia...";
+"results_ready" = "Tulokset valmiina.";
+
+//Alert
+"results_alert" = "Vastasit kaikkiin kysymyksiin.\nVoit jatkaa tuloksiin painamalla nappia alhaalta tai vaihtaa vastauksiasi.";
+"alert_title" = "Huomio";
+
+//FetchResults
+"send_email" = "Lähetä";
+"email_alert_text" = "Lähetetäänkö tulokset sähköpostiisi?";
+"email_yes" = "Kyllä";
+"email_no" = "Ei";
+"email_label" = "Lähetä tulokset sähköpostiisi";
+
+//Database
+"database_link" = "http://users.metropolia.fi/~tuomamp/meeKouluunDB_Fi.json";
+
